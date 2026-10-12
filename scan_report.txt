@@ -1,0 +1,22 @@
+Scan Date and Time: 2026-10-10 15:04:01
+NETWORK PORT SCANNER REPORT
+Target IP: 127.0.0.1
+
+PORT      SERVICE                  STATUS
+-------------------------------------------------------
+21        FTP                      CLOSED         
+22        SSH                      CLOSED         
+23        Telnet                   CLOSED         
+25        SMTP                     CLOSED         
+53        DNS                      CLOSED         
+80        HTTP                     CLOSED         
+110       POP3                     CLOSED         
+143       IMAP                     CLOSED         
+443       HTTPS                    CLOSED         
+3306      MySQL                    CLOSED         
+8000      HTTP (test server)       OPEN           
+
+Scan completed!
+Open ports: 1
+Closed ports: 10
+Other results: 0
